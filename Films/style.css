@@ -1,0 +1,40 @@
+* {
+	font-size: 18px;
+	text-decoration: none;
+	padding: 0px;
+	margin: 0px;
+	background: black;
+	color: white;
+}
+
+.nav {
+	position: absolute;
+	width: 99%;
+	display: flex;
+	justify-content: space-around;
+}
+
+.content {
+	padding: 50px;
+	width: auto;
+	min-height: 400px;
+}
+
+.content .title {
+	font-size: 35px;
+}
+
+.container {
+	width: 98%;
+	display: flex;
+	justify-content: space-around;
+}
+
+.container img {
+	width: 350px;
+	height: 350px;
+}
+
+.element {
+	border: 1px solid black;
+}
